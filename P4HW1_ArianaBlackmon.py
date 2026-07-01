@@ -1,6 +1,6 @@
 # Ariana Blackmon
 # July 1, 2026
-# P4HW1_LastnameFirstname
+# P4HW1_ArianaBlackmon
 # A program that collects a user-defined number of scores...
 
 """
